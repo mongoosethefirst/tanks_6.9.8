@@ -1,0 +1,9 @@
+TANKS V6.9.8
+
+- Mouse steering still toggles with M and remains off by default.
+- Mouse steering no longer changes either normal rotation speed.
+- With mouse steering on, the treads turn toward the mouse at the same 120 deg/sec rate used by normal A/D steering.
+- The turret continues turning toward the mouse at its normal 240 deg/sec rate.
+- A/D rotation remains disabled while mouse steering is on.
+- Mouse steering preference still persists between rounds and resets only when the game is closed.
+- Updated game version to 6.9.8.

@@ -1,0 +1,10 @@
+TANKS V6.9.7
+
+- Added mouse steering toggle with M.
+- Mouse steering is OFF by default each time the game is launched.
+- The setting stays unchanged between rounds while the game remains open.
+- When mouse steering is ON, A/D and Left/Right tread rotation are disabled.
+- The tank treads rotate toward the mouse at 275 degrees/second.
+- The turret continues rotating toward the mouse at 240 degrees/second, so the treads turn slightly faster.
+- Added an always-visible MOUSE STEER ON/OFF indicator near the FPS display.
+- Updated game version to 6.9.7.

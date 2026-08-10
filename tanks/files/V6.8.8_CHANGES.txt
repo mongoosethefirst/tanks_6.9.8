@@ -1,0 +1,8 @@
+TANKS V6.8.8
+
+- Fixed rematches losing the host assignment after a round ends.
+- The existing host now remains host when returning to the lobby between rounds.
+- If the old host is no longer connected, the lowest connected player ID becomes the new host.
+- Doubled the base/factorless scrap spawn frequency.
+- Scrap spawn settings still multiply the new doubled base rate normally.
+- Updated game version to 6.8.8.
